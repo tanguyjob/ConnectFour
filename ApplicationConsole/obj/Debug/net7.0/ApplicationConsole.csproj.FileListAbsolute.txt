@@ -1,0 +1,15 @@
+C:\Users\tangu\source\repos\ConnectFour\ApplicationConsole\bin\Debug\net7.0\ApplicationConsole.exe
+C:\Users\tangu\source\repos\ConnectFour\ApplicationConsole\bin\Debug\net7.0\ApplicationConsole.deps.json
+C:\Users\tangu\source\repos\ConnectFour\ApplicationConsole\bin\Debug\net7.0\ApplicationConsole.runtimeconfig.json
+C:\Users\tangu\source\repos\ConnectFour\ApplicationConsole\bin\Debug\net7.0\ApplicationConsole.dll
+C:\Users\tangu\source\repos\ConnectFour\ApplicationConsole\bin\Debug\net7.0\ApplicationConsole.pdb
+C:\Users\tangu\source\repos\ConnectFour\ApplicationConsole\obj\Debug\net7.0\ApplicationConsole.csproj.AssemblyReference.cache
+C:\Users\tangu\source\repos\ConnectFour\ApplicationConsole\obj\Debug\net7.0\ApplicationConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tangu\source\repos\ConnectFour\ApplicationConsole\obj\Debug\net7.0\ApplicationConsole.AssemblyInfoInputs.cache
+C:\Users\tangu\source\repos\ConnectFour\ApplicationConsole\obj\Debug\net7.0\ApplicationConsole.AssemblyInfo.cs
+C:\Users\tangu\source\repos\ConnectFour\ApplicationConsole\obj\Debug\net7.0\ApplicationConsole.csproj.CoreCompileInputs.cache
+C:\Users\tangu\source\repos\ConnectFour\ApplicationConsole\obj\Debug\net7.0\ApplicationConsole.dll
+C:\Users\tangu\source\repos\ConnectFour\ApplicationConsole\obj\Debug\net7.0\refint\ApplicationConsole.dll
+C:\Users\tangu\source\repos\ConnectFour\ApplicationConsole\obj\Debug\net7.0\ApplicationConsole.pdb
+C:\Users\tangu\source\repos\ConnectFour\ApplicationConsole\obj\Debug\net7.0\ApplicationConsole.genruntimeconfig.cache
+C:\Users\tangu\source\repos\ConnectFour\ApplicationConsole\obj\Debug\net7.0\ref\ApplicationConsole.dll
