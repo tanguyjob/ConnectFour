@@ -13,3 +13,6 @@ C:\Users\tangu\source\repos\ConnectFour\ApplicationConsole\obj\Debug\net7.0\refi
 C:\Users\tangu\source\repos\ConnectFour\ApplicationConsole\obj\Debug\net7.0\ApplicationConsole.pdb
 C:\Users\tangu\source\repos\ConnectFour\ApplicationConsole\obj\Debug\net7.0\ApplicationConsole.genruntimeconfig.cache
 C:\Users\tangu\source\repos\ConnectFour\ApplicationConsole\obj\Debug\net7.0\ref\ApplicationConsole.dll
+C:\Users\tangu\source\repos\ConnectFour\ApplicationConsole\bin\Debug\net7.0\Models.dll
+C:\Users\tangu\source\repos\ConnectFour\ApplicationConsole\bin\Debug\net7.0\Models.pdb
+C:\Users\tangu\source\repos\ConnectFour\ApplicationConsole\obj\Debug\net7.0\ApplicationConsole.csproj.CopyComplete

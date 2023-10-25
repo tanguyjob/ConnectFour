@@ -6,14 +6,6 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "ApplicationConsole/1.0.0": {
-        "dependencies": {
-          "Models": "1.0.0"
-        },
-        "runtime": {
-          "ApplicationConsole.dll": {}
-        }
-      },
       "Models/1.0.0": {
         "runtime": {
           "Models.dll": {}
@@ -22,11 +14,6 @@
     }
   },
   "libraries": {
-    "ApplicationConsole/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "Models/1.0.0": {
       "type": "project",
       "serviceable": false,
