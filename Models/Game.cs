@@ -254,7 +254,7 @@ namespace Models
 
         private bool DiagonalTwoBis(int j, int i)
         {
-            if ((i < 6) && (i > 1) && (j > 1) && (j < 4))
+            if ((i < 6) && (i > 1) && (j > 1) && (j < 5))
             {
                 for (int k = 1; k < 3; k++)
                 {
@@ -273,16 +273,17 @@ namespace Models
 
         private bool DiagonalThreeBis(int j, int i)
         {
-            if ((i < 6) && (i > 1) && (j > 1) && (j < 4))
+            if ((i < 7) && (i > 2) && (j > 2) && (j < 6))
             {
                 for (int k = 1; k < 3; k++)
                 {
-                    if ((_plate[j - k, i + (k - 1)] != _plate[j, i - 1])
-                        || (_plate[j + 1, i - 2] != _plate[j, i - 1]))
+                    if ((_plate[j - k, (i -1) - k ] != _plate[j, i - 1])
+                        || (_plate[j + 1, i] != _plate[j, i - 1]))
                     {
                         return false;
                     }
                 }
+
                 Console.WriteLine("!!!!!!!diagonale three bis");
                 return true;
 
@@ -425,7 +426,6 @@ namespace Models
                     }
                 }
 
-                Console.WriteLine($"{player} a gagné");
                 return true;
             }
             return false;
@@ -433,7 +433,7 @@ namespace Models
 
         private bool HorizontalLeft(int j, int i, bool player)
         {
-            if (i>4)
+            if (i>3)
             {
 
                 for(int k = 2;k<5;k++)
@@ -454,7 +454,7 @@ namespace Models
                     }
                 }
 
-                Console.WriteLine($"{player} a gagné");
+             
                 return true;
             }
             return false;
